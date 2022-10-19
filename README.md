@@ -7,7 +7,7 @@ First of all, I want to say that computer science began to interest me when I go
 After this time a lot of things in my life changed, there were ups and downs. And now the time has come when I remembered my childhood dream and said to myself, I want to become a programmer...
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my personal website https://rustdzhur.github.io/portfolio
 - 🌱 I’m currently learning React/Redux/Node.js
 - 💬 Ask me about anything
 - 📫 How to reach me: dzhuraievrustem@gmail.com
