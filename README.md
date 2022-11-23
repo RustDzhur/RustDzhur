@@ -17,16 +17,30 @@ Contacts with me:
 What I can:
 
 
-✔ HTML5/CSS/SASS - responsive/ adaptive layout
+✔ HTML5/CSS/SASS - for creacting structure of WEB applications
+
+✔ Responsive/ Adaptive layout - for mobile usability
 
 ✔ JavaScript programming for WEB applications
 
-✔ REACT/REDUX - for single page application
-
-✔ NODE.js - for back-end development
+✔ TypeScript - for adding types safety to my projects
 
 ✔ REST API - for get data from back-end
 
 ✔ AJAX - for asynchronous JavaScript programming
 
-✔Webpack/Parcel - I use for all web applications
+✔ React/Redux - for single page application
+
+✔ React Native - for android/iOS applications
+
+✔ Material UI - for fast/comfortable development
+
+✔ NODE.js(Express) - for back-end development
+
+✔ FIREBASE - for DataBase
+
+✔ Webpack/Parcel - I use for all web applications
+
+✔ Git/GitHub - I use for tracking changes in the source code
+
+✔ ESlint/Prettier -  for enforcing rules about maintaining the code standard across all projects
