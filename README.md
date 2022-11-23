@@ -16,10 +16,17 @@ Contacts with me:
 
 What I can:
 
+
 ✔ HTML5/CSS/SASS - responsive/ adaptive layout
+
 ✔ JavaScript programming for WEB applications
+
 ✔ REACT/REDUX - for single page application
+
 ✔ NODE.js - for back-end development
+
 ✔ REST API - for get data from back-end
+
 ✔ AJAX - for asynchronous JavaScript programming
+
 ✔Webpack/Parcel - I use for all web applications
