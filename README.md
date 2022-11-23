@@ -1,12 +1,17 @@
 Hello, my Name is Rustem
 
 🔭 I’m currently working on a lot of different stuff
+
 🌱 I’m currently learning everything I can get my hands on
+
 ⚡ Fun fact: I love what I do
+
 
 Contacts with me:
 
+
 ☏ +38 068 578 17 14 (Viber, WhatsApp, Telegram, Wechat)
+
 📫 How to reach me: dzhuraievrustem@gmail.com
 
 What I can:
