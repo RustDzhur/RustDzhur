@@ -23,8 +23,6 @@ What I can:
 
 ✔ JavaScript programming for WEB applications
 
-✔ TypeScript - for adding types safety to my projects
-
 ✔ REST API - for get data from back-end
 
 ✔ AJAX - for asynchronous JavaScript programming
@@ -34,8 +32,6 @@ What I can:
 ✔ React Native - for android/iOS applications
 
 ✔ Material UI - for fast/comfortable development
-
-✔ NODE.js(Express) - for back-end development
 
 ✔ FIREBASE - for DataBase
 
