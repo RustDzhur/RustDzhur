@@ -29,8 +29,6 @@ What I can:
 
 ✔ React/Redux - for single page application
 
-✔ React Native - for android/iOS applications
-
 ✔ Material UI - for fast/comfortable development
 
 ✔ FIREBASE - for DataBase
