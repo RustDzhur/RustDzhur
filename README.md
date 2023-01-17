@@ -10,7 +10,7 @@ Hello, my Name is Rustem
 Contacts with me:
 
 
-☏ +38 068 578 17 14 (Viber, WhatsApp, Telegram, Wechat)
+☏ +49 160 4521198
 
 📫 How to reach me: dzhuraievrustem@gmail.com
 
