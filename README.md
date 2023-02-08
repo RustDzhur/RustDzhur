@@ -1,40 +1,12 @@
-Hello, my Name is Rustem
+Hi there, I'm Rustem!
 
-🔭 I’m currently working on a lot of different stuff
+I'm a full-stack developer with a passion for coding and an insatiable thirst for knowledge. My expertise lies in HTML5/CSS/SASS for creating the structure of web applications, as well as JavaScript programming for dynamic and interactive web pages. I'm skilled in creating responsive and adaptive layouts for optimal mobile usability.
 
-🌱 I’m currently learning everything I can get my hands on
+With experience in REST API and AJAX, I am proficient in retrieving data from the back-end and ensuring smooth communication between the front-end and back-end. My strong knowledge in React/Redux, Material UI, and Firebase, enables me to create single-page applications with a focus on fast and comfortable development.
 
-⚡ Fun fact: I love what I do
+To manage my projects, I utilize tools like Webpack/Parcel, Git/GitHub, and ESlint/Prettier to ensure that my code is well-organized, efficient, and adheres to coding standards.
 
+I'm always eager to take on new challenges and continuously expand my skillset. If you're interested in working together, feel free to reach me at +49 160 4521198 or dzhuraievrustem@gmail.com.
 
-Contacts with me:
-
-
-☏ +49 160 4521198
-
-📫 How to reach me: dzhuraievrustem@gmail.com
-
-What I can:
-
-
-✔ HTML5/CSS/SASS - for creacting structure of WEB applications
-
-✔ Responsive/ Adaptive layout - for mobile usability
-
-✔ JavaScript programming for WEB applications
-
-✔ REST API - for get data from back-end
-
-✔ AJAX - for asynchronous JavaScript programming
-
-✔ React/Redux - for single page application
-
-✔ Material UI - for fast/comfortable development
-
-✔ FIREBASE - for DataBase
-
-✔ Webpack/Parcel - I use for all web applications
-
-✔ Git/GitHub - I use for tracking changes in the source code
-
-✔ ESlint/Prettier -  for enforcing rules about maintaining the code standard across all projects
+Best regards,
+Rustem
