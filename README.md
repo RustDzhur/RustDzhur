@@ -12,3 +12,18 @@ Best regards,
 Rustem
 
 
+- [ReactJs](https://reactjs.org/) <img src="https://cdn.svgporn.com/logos/react.svg" alt="React logo" width="20" height="20" />
+- [Redux Toolkit](https://redux-toolkit.js.org/) <img src="https://cdn.svgporn.com/logos/redux.svg" alt="Redux logo" width="20" height="20" />
+- [JavaScript](https://www.javascript.com/) <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript logo" width="20" height="20" />
+- [TypeScript](https://www.typescriptlang.org/) <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript logo" width="20" height="20" />
+- [NodeJs](https://nodejs.org/) <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Node.js logo" width="20" height="20" />
+- [Express](https://expressjs.com/) <img src="https://cdn.svgporn.com/logos/express.svg" alt="Express logo" width="20" height="20" />
+- [REST API](https://restfulapi.net/) <img src="https://cdn.svgporn.com/logos/restful-api.svg" alt="REST API logo" width="20" height="20" />
+- [MongoDB](https://www.mongodb.com/) <img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="MongoDB logo" width="20" height="20" />
+- [Firebase](https://firebase.google.com/) <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="Firebase logo" width="20" height="20" />
+- [HTML/CSS/SCSS/BEM](https://sass-lang.com/) <img src="https://cdn.svgporn.com/logos/sass.svg" alt="Sass logo" width="20" height="20" />
+- [Responsive/Adaptive webApp](https://www.w3schools.com/css/css_rwd_intro.asp) <img src="https://cdn.svgporn.com/logos/responsive-web-design.svg" alt="Responsive Web Design logo" width="20" height="20" />
+- [Material UI](https://mui.com/) <img src="https://cdn.svgporn.com/logos/material-ui.svg" alt="Material UI logo" width="20" height="20" />
+- [Git/GitHub](https://github.com/) <img src="https://cdn.svgporn.com/logos/github-octocat.svg" alt="GitHub logo" width="20" height="20" />
+- [WebPack/Parcel](https://webpack.js.org/) <img src="https://cdn.svgporn.com/logos/webpack.svg" alt="Webpack logo" width="20" height="20" />
+
