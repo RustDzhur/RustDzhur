@@ -12,18 +12,13 @@ Best regards,
 Rustem
 
 
-- [ReactJs](https://reactjs.org/) <img src="https://cdn.svgporn.com/logos/react.svg" alt="React logo" width="20" height="20" />
-- [Redux Toolkit](https://redux-toolkit.js.org/) <img src="https://cdn.svgporn.com/logos/redux.svg" alt="Redux logo" width="20" height="20" />
-- https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-- [TypeScript](https://www.typescriptlang.org/) <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript logo" width="20" height="20" />
-- [NodeJs](https://nodejs.org/) <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Node.js logo" width="20" height="20" />
-- [Express](https://expressjs.com/) <img src="https://cdn.svgporn.com/logos/express.svg" alt="Express logo" width="20" height="20" />
-- [REST API](https://restfulapi.net/) <img src="https://cdn.svgporn.com/logos/restful-api.svg" alt="REST API logo" width="20" height="20" />
-- [MongoDB](https://www.mongodb.com/) <img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="MongoDB logo" width="20" height="20" />
-- [Firebase](https://firebase.google.com/) <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="Firebase logo" width="20" height="20" />
-- [HTML/CSS/SCSS/BEM](https://sass-lang.com/) <img src="https://cdn.svgporn.com/logos/sass.svg" alt="Sass logo" width="20" height="20" />
-- [Responsive/Adaptive webApp](https://www.w3schools.com/css/css_rwd_intro.asp) <img src="https://cdn.svgporn.com/logos/responsive-web-design.svg" alt="Responsive Web Design logo" width="20" height="20" />
-- [Material UI](https://mui.com/) <img src="https://cdn.svgporn.com/logos/material-ui.svg" alt="Material UI logo" width="20" height="20" />
-- [Git/GitHub](https://github.com/) <img src="https://cdn.svgporn.com/logos/github-octocat.svg" alt="GitHub logo" width="20" height="20" />
-- [WebPack/Parcel](https://webpack.js.org/) <img src="https://cdn.svgporn.com/logos/webpack.svg" alt="Webpack logo" width="20" height="20" />
+![HTML5](https://img.shields.io/badge/-HTML-ec3e0e?style=flat&logo=HTML5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-0f72b5?style=flat&logo=CSS3&logoColor=fff)
+![SAAS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-ReactJS-11c9ee?style=flat&logo=React&logoColor=fff)
+![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
+![VSCODE](https://img.shields.io/badge/VSCode-1f425f?style=flat&logo=visualstudiocode&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-0f72b5?style=flat&logo=GitHub&logoColor=fff?logoWidth=60)
 
