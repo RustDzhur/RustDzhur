@@ -10,3 +10,6 @@ I'm always eager to take on new challenges and continuously expand my skillset. 
 
 Best regards,
 Rustem
+
+
+| <a href="https://github.com/RuslanNegoda1989Arjuna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RuslanNegoda1989Arjuna&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/RuslanNegoda1989Arjuna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanNegoda1989Arjuna&layout=compact&theme=buefy&hide_border=true" /></a> |
