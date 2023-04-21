@@ -34,4 +34,4 @@ Rustem
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rustdzhur&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustdzhur&layout=compact)](https://github.com/rustdzhur/github-readme-stats)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rustdzhur)](https://github.com/rustdzhur/github-readme-stats)
