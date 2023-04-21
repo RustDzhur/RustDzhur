@@ -1,4 +1,4 @@
-Hi there, I'm Rustem!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Rustem!)](https://git.io/typing-svg)
 
 I'm a full-stack developer with a passion for coding and an insatiable thirst for knowledge. My expertise lies in HTML5/CSS/SASS for creating the structure of web applications, as well as JavaScript programming for dynamic and interactive web pages. I'm skilled in creating responsive and adaptive layouts for optimal mobile usability.
 
@@ -34,4 +34,4 @@ Rustem
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rustdzhur&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustdzhur&layout=compact)](https://github.com/rustdzhur/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rustdzhur)](https://github.com/rustdzhur/github-readme-stats)
+
