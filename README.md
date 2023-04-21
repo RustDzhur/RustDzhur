@@ -31,7 +31,7 @@ Rustem
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rustdzhur&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustdzhur&layout=compact)](https://github.com/rustdzhur/github-readme-stats)
+<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rustdzhur&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
