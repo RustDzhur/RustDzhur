@@ -14,7 +14,7 @@ Rustem
 
 - [ReactJs](https://reactjs.org/) <img src="https://cdn.svgporn.com/logos/react.svg" alt="React logo" width="20" height="20" />
 - [Redux Toolkit](https://redux-toolkit.js.org/) <img src="https://cdn.svgporn.com/logos/redux.svg" alt="Redux logo" width="20" height="20" />
-- [JavaScript](https://www.javascript.com/) <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript logo" width="20" height="20" />
+- https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 - [TypeScript](https://www.typescriptlang.org/) <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript logo" width="20" height="20" />
 - [NodeJs](https://nodejs.org/) <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Node.js logo" width="20" height="20" />
 - [Express](https://expressjs.com/) <img src="https://cdn.svgporn.com/logos/express.svg" alt="Express logo" width="20" height="20" />
