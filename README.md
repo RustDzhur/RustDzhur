@@ -6,7 +6,7 @@ With experience in REST API and AJAX, I am proficient in retrieving data from th
 
 To manage my projects, I utilize tools like Webpack/Parcel, Git/GitHub, and ESlint/Prettier to ensure that my code is well-organized, efficient, and adheres to coding standards.
 
-I'm always eager to take on new challenges and continuously expand my skillset. If you're interested in working together, feel free to reach me at +49 160 4521198 or dzhuraievrustem@gmail.com.
+I'm always eager to take on new challenges and continuously expand my skillset. If you're interested in working together, feel free to reach me at +49 177 5519322 or dzhuraievrustem@gmail.com.
 
 Best regards,
 Rustem
